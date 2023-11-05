@@ -1,4 +1,4 @@
-package StaticVsNonStaticVariablesAndMethods;
+package staticvsnonstaticvariablesandmethods;
 
 public class Cat {
 
