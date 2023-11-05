@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Павел
+ *
+ */
+module javalearning {
+}
