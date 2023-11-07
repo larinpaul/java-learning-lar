@@ -1,4 +1,4 @@
-package CustomExceptions;
+package customexceptions;
 
 //public class AgeLessThanZeroException extends Exception {
 public class AgeLessThanZeroException extends IllegalArgumentException {
