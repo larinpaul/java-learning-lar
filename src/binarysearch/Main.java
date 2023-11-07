@@ -20,7 +20,7 @@ public class Main {
 		int low = 0;
 		int high = numbers.length - 1;
 		
-		// You could also change it form being a while loop to being a recursive algorithm.
+		// You could also change it from being a while loop to being a recursive algorithm.
 		while (low <= high) {
 			int middlePosition = (low + high) / 2;
 			int middleNumber = numbers[middlePosition];
