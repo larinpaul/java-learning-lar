@@ -6,4 +6,7 @@
  *
  */
 module javalearning {
+	
+	requires java.desktop;
+	
 }
