@@ -4,6 +4,8 @@ import java.io.Serializable;
 
 // Serializable means that this can be written into databases and files
 public class BeanCat implements Serializable {
+	// By the way, Java Bean is always serializable, Spring Bean doesn't need to.
+	// Java Bean must have a default no-arg constructor, Spring Bean doesn't need to.
 
 	private int age;
 	private String name;
