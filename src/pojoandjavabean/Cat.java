@@ -1,4 +1,4 @@
-package whatispojoandbean;
+package pojoandjavabean;
 
 public class Cat {
 

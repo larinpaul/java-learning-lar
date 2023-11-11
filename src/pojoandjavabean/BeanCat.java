@@ -1,4 +1,4 @@
-package whatispojoandbean;
+package pojoandjavabean;
 
 import java.io.Serializable;
 
