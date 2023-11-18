@@ -68,7 +68,6 @@ public class Main {
 		System.out.println(friendsArray2); // [Ljava.lang.String;@2c8d66b2
 		System.out.println(friendsArrayList2); // [Chris, Eric, Luke, Mitch]
 
-		
 	}
 
 }
