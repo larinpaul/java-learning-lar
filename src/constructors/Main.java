@@ -25,7 +25,7 @@ public class Main {
 		System.out.println(Constants.MY_NAME);
 		
 		// We can still do this:
-		Constants myConstants = new Constants();
+//		Constants myConstants = new Constants();
 		// But what if we don't want to give the ability to change the values?
 		// We just created a private constructor, private Constants();
 		
