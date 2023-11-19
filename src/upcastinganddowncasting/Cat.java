@@ -1,6 +1,6 @@
 package upcastinganddowncasting;
 
-public class Cat extends Animal {
+class Cat extends Animal {
 
 	@Override
 	public void makeNoise() {
