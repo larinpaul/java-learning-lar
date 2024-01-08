@@ -1,4 +1,4 @@
-package arraylistandlinkedlist;
+package anonymousobject;
 
 class A {
 	
