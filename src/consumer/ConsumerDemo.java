@@ -48,6 +48,12 @@ public class ConsumerDemo implements Consumer <String> {
 		
 		Consumer<Integer> consumer4 = (t) -> System.out.println(t);
 		integers.forEach(consumer4);
+	
+		
+		System.out.println("No let's simplify it even further:");
+		
+		List<Integer> integers2 = Arrays.asList(1,2,3,4,5,6,7,8);
+		integers2.forEach((t) -> System.out.println(t));
 		
 	}
 
